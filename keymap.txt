@@ -1,0 +1,52 @@
+# Human-readable keymappings
+
+## Joystick
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| C4       | LSTICK left      |
+| C#4      | LSTICK up        |
+| D4       | LSTICK down      |
+| D#4      | LSTICK right     |
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| G4        | LMOD x          |
+| A5        | LMOD soft       |
+| B5        | LMOD y          |
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| C5       | RSTICK left      |
+| C#5      | RSTICK up        |
+| D5       | RSTICK down      |
+| D#5      | RSTICK right     |
+
+## Buttons
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| F5       | A                |
+| F#5      | B                |
+| G#5      | X                |
+| A#5      | Y                |
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| E5       | ZR               |
+| G5       | L                |
+| A5       | R                |
+| B5       | ZL               |
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| C#2      | HOME             |
+| D#2      | START            |
+
+| Midi Key | Controller Input |
+|----------|------------------|
+| C3       | DPAD left        |
+| C#3      | DPAD up          |
+| D3       | DPAD down        |
+| D#3      | DPAD right       |
+
