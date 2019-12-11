@@ -17,6 +17,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 
 def example():
+    """An example that logs controller inputs to the console according to midi inputs"""
+
     # Setup midi input port, from
     # https://github.com/SpotlightKid/python-rtmidi/blob/master/examples/basic/midiin_poll.py
     port = sys.argv[1] if len(sys.argv) > 1 else None
